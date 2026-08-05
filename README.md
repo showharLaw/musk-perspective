@@ -29,6 +29,8 @@ musk-perspective/
 
 ## 安装
 
+**镜像**：国内用户可从 Gitee 镜像获取：[gitee.com/showhar-law/musk-perspective](https://gitee.com/showhar-law/musk-perspective)
+
 **Skills Hub（推荐，多平台同步）**：在 Skills Hub 中「从 Git/本地安装」，勾选目标工具（Claude Code / Codex / Cursor / OpenCode / Hermes 等 46 个适配器），中央库一份、各平台 junction 同步。
 
 **手动**：把本目录放入你的 Agent skills 目录（如 `~/.claude/skills/musk-perspective/`）。
