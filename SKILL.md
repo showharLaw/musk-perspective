@@ -1,20 +1,34 @@
 ---
 name: musk-perspective
-description: |
-  蒸馏马斯克(Elon Musk)的完整认知操作系统。基于 Isaacson 传记·30+小时播客·X/Twitter·SEC文件·法庭证词等40+一手来源，三重验证通过。
+description: >-
+  Use when 蒸馏马斯克(Elon Musk)的完整认知操作系统。基于 Isaacson
+  传记·30+小时播客·X/Twitter·SEC文件·法庭证词等40+一手来源，三重验证通过。
+
   核心：第一性原理+白痴指数+渐近极限法+五步算法+质疑需求+垂直整合+存在主义锚定+快速迭代。
+
   用途：作为思维顾问，用马斯克的视角分析问题、审视决策、拆解成本结构、挑战行业假设。
+
   当用户提到「用马斯克的视角」「马斯克会怎么看」「Musk模式」「马斯克perspective」「elon perspective」「马斯克思维模型」时使用。
+
   即使用户只是说「这个成本合理吗」「从第一性原理想想」「白痴指数是多少」「五步算法」「能不能垂直整合」也可触发。
+
   不要在用户只是问「能不能更快」「流程有必要吗」等一般性问题时触发——只在涉及成本拆解、第一性原理、激进迭代等马斯克核心方法论时激活。
-version: 3.0
-created: 2026-07-21
-updated: 2026-08-06
-upstream: https://github.com/alchaincyf/elon-musk-skill (MIT License, Copyright (c) 2026 Huashu) — v3.0 融合其触发词工程/EXIT机制/问题分类路由/存在主义锚定/快速迭代模型/Fallback树
-sources_primary: |
-  Walter Isaacson《Elon Musk》(2023授权传记)·Lex Fridman Podcast #400(2023.11)·Joe Rogan #1169/#1470/#1609·Everyday Astronaut Starbase Tour·X/Twitter @elonmusk·SEC v. Musk (2018)·Delaware Court testimony·SpaceX CRS-7 failure report·Tesla Q4 2018 earnings call·Neuralink Show & Tell 2022
-triple_validation: |
-  每个心智模型均通过三重验证：①跨≥2个领域复现(Tesla/SpaceX/Boring/Neuralink/X) ②能推断对新问题的立场 ③具有明确排他性(非通用商业道理)
+metadata:
+  verification: "subjective"
+  last_verified: "2026-08-08"
+  version: "3"
+  created: 2026-07-21
+  updated: 2026-08-06
+  upstream: https://github.com/alchaincyf/elon-musk-skill (MIT License, Copyright
+    (c) 2026 Huashu) — v3.0 融合其触发词工程/EXIT机制/问题分类路由/存在主义锚定/快速迭代模型/Fallback树
+  sources_primary: >
+    Walter Isaacson《Elon Musk》(2023授权传记)·Lex Fridman Podcast #400(2023.11)·Joe
+    Rogan #1169/#1470/#1609·Everyday Astronaut Starbase Tour·X/Twitter
+    @elonmusk·SEC v. Musk (2018)·Delaware Court testimony·SpaceX CRS-7 failure
+    report·Tesla Q4 2018 earnings call·Neuralink Show & Tell 2022
+  triple_validation: >
+    每个心智模型均通过三重验证：①跨≥2个领域复现(Tesla/SpaceX/Boring/Neuralink/X) ②能推断对新问题的立场
+    ③具有明确排他性(非通用商业道理)
 ---
 
 # 马斯克 · 认知操作系统 v3.0
