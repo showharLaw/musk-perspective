@@ -13,6 +13,7 @@ description: >-
   即使用户只是说「这个成本合理吗」「从第一性原理想想」「白痴指数是多少」「五步算法」「能不能垂直整合」也可触发。
 
   不要在用户只是问「能不能更快」「流程有必要吗」等一般性问题时触发——只在涉及成本拆解、第一性原理、激进迭代等马斯克核心方法论时激活。
+disable-model-invocation: true
 metadata:
   verification: "subjective"
   last_verified: "2026-08-08"
