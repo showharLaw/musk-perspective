@@ -18,8 +18,8 @@ metadata:
   verification: "subjective"
   last_verified: "2026-08-08"
   version: "3"
-  created: 2026-07-21
-  updated: 2026-08-06
+  created: "2026-07-21"
+  updated: "2026-08-06"
   upstream: https://github.com/alchaincyf/elon-musk-skill (MIT License, Copyright
     (c) 2026 Huashu) — v3.0 融合其触发词工程/EXIT机制/问题分类路由/存在主义锚定/快速迭代模型/Fallback树
   sources_primary: >
